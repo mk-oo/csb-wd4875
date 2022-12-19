@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mk-oo.github.io/csb-wd4875/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mk-oo.github.io/csb-wd4875/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://mk-oo.github.io/csb-wd4875/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://mk-oo.github.io/csb-wd4875/static/js/runtime-main.adf39d7c.js",
+    "runtime-main.js.map": "https://mk-oo.github.io/csb-wd4875/static/js/runtime-main.adf39d7c.js.map",
+    "static/js/2.0fd3f829.chunk.js": "https://mk-oo.github.io/csb-wd4875/static/js/2.0fd3f829.chunk.js",
+    "static/js/2.0fd3f829.chunk.js.map": "https://mk-oo.github.io/csb-wd4875/static/js/2.0fd3f829.chunk.js.map",
+    "index.html": "https://mk-oo.github.io/csb-wd4875/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mk-oo.github.io/csb-wd4875/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0fd3f829.chunk.js.LICENSE.txt": "https://mk-oo.github.io/csb-wd4875/static/js/2.0fd3f829.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf39d7c.js",
+    "static/js/2.0fd3f829.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
